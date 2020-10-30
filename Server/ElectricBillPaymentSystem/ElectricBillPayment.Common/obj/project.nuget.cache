@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXSPpOvHhkVhMCwNUGg5EI7pN59evazQoZOBCfaLEmD0Yt/6bjSs4uQH6bZZgw2KSgiY1kwneyylgMM6o/kxzw==",
+  "success": true,
+  "projectFilePath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
