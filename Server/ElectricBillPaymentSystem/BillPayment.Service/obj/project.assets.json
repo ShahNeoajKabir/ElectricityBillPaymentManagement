@@ -5762,11 +5762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj",
+      "projectUniqueName": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj",
       "projectName": "BillPayment.Service",
-      "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj",
+      "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\BillPayment.Service\\obj\\",
+      "outputPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\BillPayment.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5782,8 +5782,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\Context\\Context.csproj": {
-              "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\Context\\Context.csproj"
+            "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\Context\\Context.csproj": {
+              "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\Context\\Context.csproj"
             }
           }
         }

@@ -5343,11 +5343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\ElectricBillPayment.BLL.csproj",
+      "projectUniqueName": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\ElectricBillPayment.BLL.csproj",
       "projectName": "ElectricBillPayment.BLL",
-      "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\ElectricBillPayment.BLL.csproj",
+      "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\ElectricBillPayment.BLL.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\obj\\",
+      "outputPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5363,14 +5363,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj": {
-              "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj"
+            "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj": {
+              "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\BillPayment.Service\\BillPayment.Service.csproj"
             },
-            "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\Context\\Context.csproj": {
-              "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\Context\\Context.csproj"
+            "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\Context\\Context.csproj": {
+              "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\Context\\Context.csproj"
             },
-            "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj": {
-              "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj"
+            "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj": {
+              "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj"
             }
           }
         }

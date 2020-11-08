@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj",
+      "projectUniqueName": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj",
       "projectName": "ElectricBillPayment.Common",
-      "projectPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj",
+      "projectPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\ElectricBillPayment.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Final Defence\\BappyFinalDefence\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\obj\\",
+      "outputPath": "E:\\Final Defence Project\\Server\\ElectricBillPaymentSystem\\ElectricBillPayment.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
